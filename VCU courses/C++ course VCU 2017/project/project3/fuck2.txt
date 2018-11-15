@@ -1,0 +1,6 @@
+LDC 1
+LDC 3
+DUP
+DUP
+DBG
+HLT
